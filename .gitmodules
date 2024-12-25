@@ -1,0 +1,6 @@
+[submodule "YouSUM-chrome-extension"]
+	path = YouSUM-chrome-extension
+	url = https://github.com/PurushottamKParakh/YouSUM-chrome-extension.git
+[submodule "YouSUM-backend"]
+	path = YouSUM-backend
+	url = https://github.com/PurushottamKParakh/YouSUM-backend.git
